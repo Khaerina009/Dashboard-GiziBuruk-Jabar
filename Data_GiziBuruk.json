@@ -1,0 +1,3647 @@
+[
+  {
+    "id": 1,
+    "kode_kabupaten_kota": 3201,
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 20999,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 2,
+    "kode_kabupaten_kota": 3201,
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 86706,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 3,
+    "kode_kabupaten_kota": 3201,
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 16179,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 4,
+    "kode_kabupaten_kota": 3202,
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 8016,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 5,
+    "kode_kabupaten_kota": 3202,
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 11352,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 6,
+    "kode_kabupaten_kota": 3202,
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 6641,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 7,
+    "kode_kabupaten_kota": 3203,
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 8553,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 8,
+    "kode_kabupaten_kota": 3203,
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 10017,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 9,
+    "kode_kabupaten_kota": 3203,
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 3570,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 10,
+    "kode_kabupaten_kota": 3204,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 12706,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 11,
+    "kode_kabupaten_kota": 3204,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 15020,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 12,
+    "kode_kabupaten_kota": 3204,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 3954,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 13,
+    "kode_kabupaten_kota": 3205,
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 7718,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 14,
+    "kode_kabupaten_kota": 3205,
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 9255,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 15,
+    "kode_kabupaten_kota": 3205,
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 3682,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 16,
+    "kode_kabupaten_kota": 3206,
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 8865,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 17,
+    "kode_kabupaten_kota": 3206,
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 17254,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 18,
+    "kode_kabupaten_kota": 3206,
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2971,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 19,
+    "kode_kabupaten_kota": 3207,
+    "nama_kabupaten_kota": "KABUPATEN CIAMIS",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 306,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 20,
+    "kode_kabupaten_kota": 3207,
+    "nama_kabupaten_kota": "KABUPATEN CIAMIS",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 614,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 21,
+    "kode_kabupaten_kota": 3207,
+    "nama_kabupaten_kota": "KABUPATEN CIAMIS",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 1613,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 22,
+    "kode_kabupaten_kota": 3208,
+    "nama_kabupaten_kota": "KABUPATEN KUNINGAN",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 4088,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 23,
+    "kode_kabupaten_kota": 3208,
+    "nama_kabupaten_kota": "KABUPATEN KUNINGAN",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 5553,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 24,
+    "kode_kabupaten_kota": 3208,
+    "nama_kabupaten_kota": "KABUPATEN KUNINGAN",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2270,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 25,
+    "kode_kabupaten_kota": 3209,
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 13743,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 26,
+    "kode_kabupaten_kota": 3209,
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 14127,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 27,
+    "kode_kabupaten_kota": 3209,
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 6098,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 28,
+    "kode_kabupaten_kota": 3210,
+    "nama_kabupaten_kota": "KABUPATEN MAJALENGKA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 4220,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 29,
+    "kode_kabupaten_kota": 3210,
+    "nama_kabupaten_kota": "KABUPATEN MAJALENGKA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 3905,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 30,
+    "kode_kabupaten_kota": 3210,
+    "nama_kabupaten_kota": "KABUPATEN MAJALENGKA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2133,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 31,
+    "kode_kabupaten_kota": 3211,
+    "nama_kabupaten_kota": "KABUPATEN SUMEDANG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 4237,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 32,
+    "kode_kabupaten_kota": 3211,
+    "nama_kabupaten_kota": "KABUPATEN SUMEDANG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 6780,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 33,
+    "kode_kabupaten_kota": 3211,
+    "nama_kabupaten_kota": "KABUPATEN SUMEDANG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 1676,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 34,
+    "kode_kabupaten_kota": 3212,
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 13640,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 35,
+    "kode_kabupaten_kota": 3212,
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 20255,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 36,
+    "kode_kabupaten_kota": 3212,
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 10369,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 37,
+    "kode_kabupaten_kota": 3213,
+    "nama_kabupaten_kota": "KABUPATEN SUBANG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 3974,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 38,
+    "kode_kabupaten_kota": 3213,
+    "nama_kabupaten_kota": "KABUPATEN SUBANG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 2476,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 39,
+    "kode_kabupaten_kota": 3213,
+    "nama_kabupaten_kota": "KABUPATEN SUBANG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 1892,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 40,
+    "kode_kabupaten_kota": 3214,
+    "nama_kabupaten_kota": "KABUPATEN PURWAKARTA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2622,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 41,
+    "kode_kabupaten_kota": 3214,
+    "nama_kabupaten_kota": "KABUPATEN PURWAKARTA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 2453,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 42,
+    "kode_kabupaten_kota": 3214,
+    "nama_kabupaten_kota": "KABUPATEN PURWAKARTA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 669,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 43,
+    "kode_kabupaten_kota": 3215,
+    "nama_kabupaten_kota": "KABUPATEN KARAWANG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 4310,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 44,
+    "kode_kabupaten_kota": 3215,
+    "nama_kabupaten_kota": "KABUPATEN KARAWANG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 3654,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 45,
+    "kode_kabupaten_kota": 3215,
+    "nama_kabupaten_kota": "KABUPATEN KARAWANG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 3354,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 46,
+    "kode_kabupaten_kota": 3216,
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 7948,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 47,
+    "kode_kabupaten_kota": 3216,
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 7838,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 48,
+    "kode_kabupaten_kota": 3216,
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 5153,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 49,
+    "kode_kabupaten_kota": 3217,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG BARAT",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 6130,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 50,
+    "kode_kabupaten_kota": 3217,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG BARAT",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 8151,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 51,
+    "kode_kabupaten_kota": 3217,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG BARAT",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 1684,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 52,
+    "kode_kabupaten_kota": 3218,
+    "nama_kabupaten_kota": "KABUPATEN PANGANDARAN",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 773,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 53,
+    "kode_kabupaten_kota": 3218,
+    "nama_kabupaten_kota": "KABUPATEN PANGANDARAN",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 853,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 54,
+    "kode_kabupaten_kota": 3218,
+    "nama_kabupaten_kota": "KABUPATEN PANGANDARAN",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 39,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 55,
+    "kode_kabupaten_kota": 3271,
+    "nama_kabupaten_kota": "KOTA BOGOR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 3859,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 56,
+    "kode_kabupaten_kota": 3271,
+    "nama_kabupaten_kota": "KOTA BOGOR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 3192,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 57,
+    "kode_kabupaten_kota": 3271,
+    "nama_kabupaten_kota": "KOTA BOGOR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2047,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 58,
+    "kode_kabupaten_kota": 3272,
+    "nama_kabupaten_kota": "KOTA SUKABUMI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 1333,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 59,
+    "kode_kabupaten_kota": 3272,
+    "nama_kabupaten_kota": "KOTA SUKABUMI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 1683,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 60,
+    "kode_kabupaten_kota": 3272,
+    "nama_kabupaten_kota": "KOTA SUKABUMI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 634,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 61,
+    "kode_kabupaten_kota": 3273,
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 7959,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 62,
+    "kode_kabupaten_kota": 3273,
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 8121,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 63,
+    "kode_kabupaten_kota": 3273,
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 3999,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 64,
+    "kode_kabupaten_kota": 3274,
+    "nama_kabupaten_kota": "KOTA CIREBON",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2229,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 65,
+    "kode_kabupaten_kota": 3274,
+    "nama_kabupaten_kota": "KOTA CIREBON",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 874,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 66,
+    "kode_kabupaten_kota": 3274,
+    "nama_kabupaten_kota": "KOTA CIREBON",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2472,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 67,
+    "kode_kabupaten_kota": 3275,
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 5797,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 68,
+    "kode_kabupaten_kota": 3275,
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 8010,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 69,
+    "kode_kabupaten_kota": 3275,
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 4955,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 70,
+    "kode_kabupaten_kota": 3276,
+    "nama_kabupaten_kota": "KOTA DEPOK",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 5450,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 71,
+    "kode_kabupaten_kota": 3276,
+    "nama_kabupaten_kota": "KOTA DEPOK",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 5241,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 72,
+    "kode_kabupaten_kota": 3276,
+    "nama_kabupaten_kota": "KOTA DEPOK",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 3021,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 73,
+    "kode_kabupaten_kota": 3277,
+    "nama_kabupaten_kota": "KOTA CIMAHI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2014,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 74,
+    "kode_kabupaten_kota": 3277,
+    "nama_kabupaten_kota": "KOTA CIMAHI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 3269,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 75,
+    "kode_kabupaten_kota": 3277,
+    "nama_kabupaten_kota": "KOTA CIMAHI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 888,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 76,
+    "kode_kabupaten_kota": 3278,
+    "nama_kabupaten_kota": "KOTA TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 3738,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 77,
+    "kode_kabupaten_kota": 3278,
+    "nama_kabupaten_kota": "KOTA TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 5373,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 78,
+    "kode_kabupaten_kota": 3278,
+    "nama_kabupaten_kota": "KOTA TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 1679,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 79,
+    "kode_kabupaten_kota": 3279,
+    "nama_kabupaten_kota": "KOTA BANJAR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 968,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 80,
+    "kode_kabupaten_kota": 3279,
+    "nama_kabupaten_kota": "KOTA BANJAR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 962,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 81,
+    "kode_kabupaten_kota": 3279,
+    "nama_kabupaten_kota": "KOTA BANJAR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 523,
+    "tahun": "2019",
+    "": ""
+  },
+  {
+    "id": 82,
+    "kode_kabupaten_kota": 3201,
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 21322,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 83,
+    "kode_kabupaten_kota": 3201,
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 40959,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 84,
+    "kode_kabupaten_kota": 3201,
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 18572,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 85,
+    "kode_kabupaten_kota": 3202,
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 8838,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 86,
+    "kode_kabupaten_kota": 3202,
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 14154,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 87,
+    "kode_kabupaten_kota": 3202,
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 6046,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 88,
+    "kode_kabupaten_kota": 3203,
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 9069,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 89,
+    "kode_kabupaten_kota": 3203,
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 12166,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 90,
+    "kode_kabupaten_kota": 3203,
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 5594,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 91,
+    "kode_kabupaten_kota": 3204,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 13728,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 92,
+    "kode_kabupaten_kota": 3204,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 22338,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 93,
+    "kode_kabupaten_kota": 3204,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 6612,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 94,
+    "kode_kabupaten_kota": 3205,
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 9128,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 95,
+    "kode_kabupaten_kota": 3205,
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 13568,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 96,
+    "kode_kabupaten_kota": 3205,
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 5668,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 97,
+    "kode_kabupaten_kota": 3206,
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 9275,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 98,
+    "kode_kabupaten_kota": 3206,
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 19068,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 99,
+    "kode_kabupaten_kota": 3206,
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 4616,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 100,
+    "kode_kabupaten_kota": 3207,
+    "nama_kabupaten_kota": "KABUPATEN CIAMIS",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 4810,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 101,
+    "kode_kabupaten_kota": 3207,
+    "nama_kabupaten_kota": "KABUPATEN CIAMIS",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 7688,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 102,
+    "kode_kabupaten_kota": 3207,
+    "nama_kabupaten_kota": "KABUPATEN CIAMIS",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2736,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 103,
+    "kode_kabupaten_kota": 3208,
+    "nama_kabupaten_kota": "KABUPATEN KUNINGAN",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 4265,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 104,
+    "kode_kabupaten_kota": 3208,
+    "nama_kabupaten_kota": "KABUPATEN KUNINGAN",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 5016,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 105,
+    "kode_kabupaten_kota": 3208,
+    "nama_kabupaten_kota": "KABUPATEN KUNINGAN",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2697,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 106,
+    "kode_kabupaten_kota": 3209,
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 15737,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 107,
+    "kode_kabupaten_kota": 3209,
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 16530,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 108,
+    "kode_kabupaten_kota": 3209,
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 8890,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 109,
+    "kode_kabupaten_kota": 3210,
+    "nama_kabupaten_kota": "KABUPATEN MAJALENGKA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 4549,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 110,
+    "kode_kabupaten_kota": 3210,
+    "nama_kabupaten_kota": "KABUPATEN MAJALENGKA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 4382,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 111,
+    "kode_kabupaten_kota": 3210,
+    "nama_kabupaten_kota": "KABUPATEN MAJALENGKA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2760,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 112,
+    "kode_kabupaten_kota": 3211,
+    "nama_kabupaten_kota": "KABUPATEN SUMEDANG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 5784,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 113,
+    "kode_kabupaten_kota": 3211,
+    "nama_kabupaten_kota": "KABUPATEN SUMEDANG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 9044,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 114,
+    "kode_kabupaten_kota": 3211,
+    "nama_kabupaten_kota": "KABUPATEN SUMEDANG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2597,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 115,
+    "kode_kabupaten_kota": 3212,
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 5218,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 116,
+    "kode_kabupaten_kota": 3212,
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 8175,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 117,
+    "kode_kabupaten_kota": 3212,
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 6562,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 118,
+    "kode_kabupaten_kota": 3213,
+    "nama_kabupaten_kota": "KABUPATEN SUBANG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2977,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 119,
+    "kode_kabupaten_kota": 3213,
+    "nama_kabupaten_kota": "KABUPATEN SUBANG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 2268,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 120,
+    "kode_kabupaten_kota": 3213,
+    "nama_kabupaten_kota": "KABUPATEN SUBANG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2858,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 121,
+    "kode_kabupaten_kota": 3214,
+    "nama_kabupaten_kota": "KABUPATEN PURWAKARTA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2648,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 122,
+    "kode_kabupaten_kota": 3214,
+    "nama_kabupaten_kota": "KABUPATEN PURWAKARTA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 2321,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 123,
+    "kode_kabupaten_kota": 3214,
+    "nama_kabupaten_kota": "KABUPATEN PURWAKARTA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 653,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 124,
+    "kode_kabupaten_kota": 3215,
+    "nama_kabupaten_kota": "KABUPATEN KARAWANG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 4647,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 125,
+    "kode_kabupaten_kota": 3215,
+    "nama_kabupaten_kota": "KABUPATEN KARAWANG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 4217,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 126,
+    "kode_kabupaten_kota": 3215,
+    "nama_kabupaten_kota": "KABUPATEN KARAWANG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 3408,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 127,
+    "kode_kabupaten_kota": 3216,
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 6723,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 128,
+    "kode_kabupaten_kota": 3216,
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 9480,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 129,
+    "kode_kabupaten_kota": 3216,
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 6515,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 130,
+    "kode_kabupaten_kota": 3217,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG BARAT",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 6130,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 131,
+    "kode_kabupaten_kota": 3217,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG BARAT",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 8151,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 132,
+    "kode_kabupaten_kota": 3217,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG BARAT",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 1684,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 133,
+    "kode_kabupaten_kota": 3218,
+    "nama_kabupaten_kota": "KABUPATEN PANGANDARAN",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 161,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 134,
+    "kode_kabupaten_kota": 3218,
+    "nama_kabupaten_kota": "KABUPATEN PANGANDARAN",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 1316,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 135,
+    "kode_kabupaten_kota": 3218,
+    "nama_kabupaten_kota": "KABUPATEN PANGANDARAN",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 357,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 136,
+    "kode_kabupaten_kota": 3271,
+    "nama_kabupaten_kota": "KOTA BOGOR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2915,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 137,
+    "kode_kabupaten_kota": 3271,
+    "nama_kabupaten_kota": "KOTA BOGOR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 8305,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 138,
+    "kode_kabupaten_kota": 3271,
+    "nama_kabupaten_kota": "KOTA BOGOR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 1705,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 139,
+    "kode_kabupaten_kota": 3272,
+    "nama_kabupaten_kota": "KOTA SUKABUMI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 1333,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 140,
+    "kode_kabupaten_kota": 3272,
+    "nama_kabupaten_kota": "KOTA SUKABUMI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 1683,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 141,
+    "kode_kabupaten_kota": 3272,
+    "nama_kabupaten_kota": "KOTA SUKABUMI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 634,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 142,
+    "kode_kabupaten_kota": 3273,
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 7910,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 143,
+    "kode_kabupaten_kota": 3273,
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 9567,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 144,
+    "kode_kabupaten_kota": 3273,
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 5739,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 145,
+    "kode_kabupaten_kota": 3274,
+    "nama_kabupaten_kota": "KOTA CIREBON",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2149,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 146,
+    "kode_kabupaten_kota": 3274,
+    "nama_kabupaten_kota": "KOTA CIREBON",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 1902,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 147,
+    "kode_kabupaten_kota": 3274,
+    "nama_kabupaten_kota": "KOTA CIREBON",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 837,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 148,
+    "kode_kabupaten_kota": 3275,
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 8228,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 149,
+    "kode_kabupaten_kota": 3275,
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 14194,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 150,
+    "kode_kabupaten_kota": 3275,
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 7954,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 151,
+    "kode_kabupaten_kota": 3276,
+    "nama_kabupaten_kota": "KOTA DEPOK",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 5948,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 152,
+    "kode_kabupaten_kota": 3276,
+    "nama_kabupaten_kota": "KOTA DEPOK",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 5718,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 153,
+    "kode_kabupaten_kota": 3276,
+    "nama_kabupaten_kota": "KOTA DEPOK",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 3568,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 154,
+    "kode_kabupaten_kota": 3277,
+    "nama_kabupaten_kota": "KOTA CIMAHI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2491,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 155,
+    "kode_kabupaten_kota": 3277,
+    "nama_kabupaten_kota": "KOTA CIMAHI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 3520,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 156,
+    "kode_kabupaten_kota": 3277,
+    "nama_kabupaten_kota": "KOTA CIMAHI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 1204,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 157,
+    "kode_kabupaten_kota": 3278,
+    "nama_kabupaten_kota": "KOTA TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 3738,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 158,
+    "kode_kabupaten_kota": 3278,
+    "nama_kabupaten_kota": "KOTA TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 5373,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 159,
+    "kode_kabupaten_kota": 3278,
+    "nama_kabupaten_kota": "KOTA TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 1679,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 160,
+    "kode_kabupaten_kota": 3279,
+    "nama_kabupaten_kota": "KOTA BANJAR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 1086,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 161,
+    "kode_kabupaten_kota": 3279,
+    "nama_kabupaten_kota": "KOTA BANJAR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 1355,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 162,
+    "kode_kabupaten_kota": 3279,
+    "nama_kabupaten_kota": "KOTA BANJAR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 837,
+    "tahun": "2020",
+    "": ""
+  },
+  {
+    "id": 163,
+    "kode_kabupaten_kota": 3201,
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 16821,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 164,
+    "kode_kabupaten_kota": 3201,
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 32123,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 165,
+    "kode_kabupaten_kota": 3201,
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 18913,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 166,
+    "kode_kabupaten_kota": 3202,
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 6543,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 167,
+    "kode_kabupaten_kota": 3202,
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 14356,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 168,
+    "kode_kabupaten_kota": 3202,
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 9301,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 169,
+    "kode_kabupaten_kota": 3203,
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 5146,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 170,
+    "kode_kabupaten_kota": 3203,
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 7750,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 171,
+    "kode_kabupaten_kota": 3203,
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 7602,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 172,
+    "kode_kabupaten_kota": 3204,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 9596,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 173,
+    "kode_kabupaten_kota": 3204,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 4870,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 174,
+    "kode_kabupaten_kota": 3204,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 14062,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 175,
+    "kode_kabupaten_kota": 3205,
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 5150,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 176,
+    "kode_kabupaten_kota": 3205,
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 10009,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 177,
+    "kode_kabupaten_kota": 3205,
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 8932,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 178,
+    "kode_kabupaten_kota": 3206,
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 4606,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 179,
+    "kode_kabupaten_kota": 3206,
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 15175,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 180,
+    "kode_kabupaten_kota": 3206,
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 8597,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 181,
+    "kode_kabupaten_kota": 3207,
+    "nama_kabupaten_kota": "KABUPATEN CIAMIS",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 1977,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 182,
+    "kode_kabupaten_kota": 3207,
+    "nama_kabupaten_kota": "KABUPATEN CIAMIS",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 2673,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 183,
+    "kode_kabupaten_kota": 3207,
+    "nama_kabupaten_kota": "KABUPATEN CIAMIS",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 3697,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 184,
+    "kode_kabupaten_kota": 3208,
+    "nama_kabupaten_kota": "KABUPATEN KUNINGAN",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2461,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 185,
+    "kode_kabupaten_kota": 3208,
+    "nama_kabupaten_kota": "KABUPATEN KUNINGAN",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 3662,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 186,
+    "kode_kabupaten_kota": 3208,
+    "nama_kabupaten_kota": "KABUPATEN KUNINGAN",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 3866,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 187,
+    "kode_kabupaten_kota": 3209,
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 7876,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 188,
+    "kode_kabupaten_kota": 3209,
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 11670,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 189,
+    "kode_kabupaten_kota": 3209,
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 13385,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 190,
+    "kode_kabupaten_kota": 3210,
+    "nama_kabupaten_kota": "KABUPATEN MAJALENGKA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2471,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 191,
+    "kode_kabupaten_kota": 3210,
+    "nama_kabupaten_kota": "KABUPATEN MAJALENGKA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 2932,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 192,
+    "kode_kabupaten_kota": 3210,
+    "nama_kabupaten_kota": "KABUPATEN MAJALENGKA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 3705,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 193,
+    "kode_kabupaten_kota": 3211,
+    "nama_kabupaten_kota": "KABUPATEN SUMEDANG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2381,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 194,
+    "kode_kabupaten_kota": 3211,
+    "nama_kabupaten_kota": "KABUPATEN SUMEDANG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 8092,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 195,
+    "kode_kabupaten_kota": 3211,
+    "nama_kabupaten_kota": "KABUPATEN SUMEDANG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 5732,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 196,
+    "kode_kabupaten_kota": 3212,
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 5973,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 197,
+    "kode_kabupaten_kota": 3212,
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 5183,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 198,
+    "kode_kabupaten_kota": 3212,
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 5586,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 199,
+    "kode_kabupaten_kota": 3213,
+    "nama_kabupaten_kota": "KABUPATEN SUBANG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2390,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 200,
+    "kode_kabupaten_kota": 3213,
+    "nama_kabupaten_kota": "KABUPATEN SUBANG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 1546,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 201,
+    "kode_kabupaten_kota": 3213,
+    "nama_kabupaten_kota": "KABUPATEN SUBANG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 1980,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 202,
+    "kode_kabupaten_kota": 3214,
+    "nama_kabupaten_kota": "KABUPATEN PURWAKARTA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 1228,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 203,
+    "kode_kabupaten_kota": 3214,
+    "nama_kabupaten_kota": "KABUPATEN PURWAKARTA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 2505,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 204,
+    "kode_kabupaten_kota": 3214,
+    "nama_kabupaten_kota": "KABUPATEN PURWAKARTA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2211,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 205,
+    "kode_kabupaten_kota": 3215,
+    "nama_kabupaten_kota": "KABUPATEN KARAWANG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2914,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 206,
+    "kode_kabupaten_kota": 3215,
+    "nama_kabupaten_kota": "KABUPATEN KARAWANG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 4216,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 207,
+    "kode_kabupaten_kota": 3215,
+    "nama_kabupaten_kota": "KABUPATEN KARAWANG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 4174,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 208,
+    "kode_kabupaten_kota": 3216,
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 7548,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 209,
+    "kode_kabupaten_kota": 3216,
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 9354,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 210,
+    "kode_kabupaten_kota": 3216,
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 7708,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 211,
+    "kode_kabupaten_kota": 3217,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG BARAT",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 5164,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 212,
+    "kode_kabupaten_kota": 3217,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG BARAT",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 6891,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 213,
+    "kode_kabupaten_kota": 3217,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG BARAT",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 6891,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 214,
+    "kode_kabupaten_kota": 3218,
+    "nama_kabupaten_kota": "KABUPATEN PANGANDARAN",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 347,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 215,
+    "kode_kabupaten_kota": 3218,
+    "nama_kabupaten_kota": "KABUPATEN PANGANDARAN",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 803,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 216,
+    "kode_kabupaten_kota": 3218,
+    "nama_kabupaten_kota": "KABUPATEN PANGANDARAN",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 904,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 217,
+    "kode_kabupaten_kota": 3271,
+    "nama_kabupaten_kota": "KOTA BOGOR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2824,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 218,
+    "kode_kabupaten_kota": 3271,
+    "nama_kabupaten_kota": "KOTA BOGOR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 3875,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 219,
+    "kode_kabupaten_kota": 3271,
+    "nama_kabupaten_kota": "KOTA BOGOR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 3465,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 220,
+    "kode_kabupaten_kota": 3272,
+    "nama_kabupaten_kota": "KOTA SUKABUMI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 621,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 221,
+    "kode_kabupaten_kota": 3272,
+    "nama_kabupaten_kota": "KOTA SUKABUMI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 996,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 222,
+    "kode_kabupaten_kota": 3272,
+    "nama_kabupaten_kota": "KOTA SUKABUMI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 1206,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 223,
+    "kode_kabupaten_kota": 3273,
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 3941,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 224,
+    "kode_kabupaten_kota": 3273,
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 7568,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 225,
+    "kode_kabupaten_kota": 3273,
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 5612,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 226,
+    "kode_kabupaten_kota": 3274,
+    "nama_kabupaten_kota": "KOTA CIREBON",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 1108,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 227,
+    "kode_kabupaten_kota": 3274,
+    "nama_kabupaten_kota": "KOTA CIREBON",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 2359,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 228,
+    "kode_kabupaten_kota": 3274,
+    "nama_kabupaten_kota": "KOTA CIREBON",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2399,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 229,
+    "kode_kabupaten_kota": 3275,
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 7343,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 230,
+    "kode_kabupaten_kota": 3275,
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 9832,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 231,
+    "kode_kabupaten_kota": 3275,
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 7663,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 232,
+    "kode_kabupaten_kota": 3276,
+    "nama_kabupaten_kota": "KOTA DEPOK",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2397,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 233,
+    "kode_kabupaten_kota": 3276,
+    "nama_kabupaten_kota": "KOTA DEPOK",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 3675,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 234,
+    "kode_kabupaten_kota": 3276,
+    "nama_kabupaten_kota": "KOTA DEPOK",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 4639,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 235,
+    "kode_kabupaten_kota": 3277,
+    "nama_kabupaten_kota": "KOTA CIMAHI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 1221,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 236,
+    "kode_kabupaten_kota": 3277,
+    "nama_kabupaten_kota": "KOTA CIMAHI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 3261,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 237,
+    "kode_kabupaten_kota": 3277,
+    "nama_kabupaten_kota": "KOTA CIMAHI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2199,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 238,
+    "kode_kabupaten_kota": 3278,
+    "nama_kabupaten_kota": "KOTA TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2477,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 239,
+    "kode_kabupaten_kota": 3278,
+    "nama_kabupaten_kota": "KOTA TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 6243,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 240,
+    "kode_kabupaten_kota": 3278,
+    "nama_kabupaten_kota": "KOTA TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 4452,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 241,
+    "kode_kabupaten_kota": 3279,
+    "nama_kabupaten_kota": "KOTA BANJAR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 727,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 242,
+    "kode_kabupaten_kota": 3279,
+    "nama_kabupaten_kota": "KOTA BANJAR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 976,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 243,
+    "kode_kabupaten_kota": 3279,
+    "nama_kabupaten_kota": "KOTA BANJAR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 1060,
+    "tahun": "2021",
+    "": ""
+  },
+  {
+    "id": 244,
+    "kode_kabupaten_kota": 3201,
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 16991,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 245,
+    "kode_kabupaten_kota": 3201,
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 18666,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 246,
+    "kode_kabupaten_kota": 3201,
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 19294,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 247,
+    "kode_kabupaten_kota": 3202,
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 5998,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 248,
+    "kode_kabupaten_kota": 3202,
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 10231,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 249,
+    "kode_kabupaten_kota": 3202,
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 8872,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 250,
+    "kode_kabupaten_kota": 3203,
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 3146,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 251,
+    "kode_kabupaten_kota": 3203,
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 6871,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 252,
+    "kode_kabupaten_kota": 3203,
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 6500,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 253,
+    "kode_kabupaten_kota": 3204,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 10024,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 254,
+    "kode_kabupaten_kota": 3204,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 21018,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 255,
+    "kode_kabupaten_kota": 3204,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 15278,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 256,
+    "kode_kabupaten_kota": 3205,
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 8675,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 257,
+    "kode_kabupaten_kota": 3205,
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 30266,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 258,
+    "kode_kabupaten_kota": 3205,
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 20316,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 259,
+    "kode_kabupaten_kota": 3206,
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 5104,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 260,
+    "kode_kabupaten_kota": 3206,
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 14122,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 261,
+    "kode_kabupaten_kota": 3206,
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 8880,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 262,
+    "kode_kabupaten_kota": 3207,
+    "nama_kabupaten_kota": "KABUPATEN CIAMIS",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2358,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 263,
+    "kode_kabupaten_kota": 3207,
+    "nama_kabupaten_kota": "KABUPATEN CIAMIS",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 1872,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 264,
+    "kode_kabupaten_kota": 3207,
+    "nama_kabupaten_kota": "KABUPATEN CIAMIS",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 3590,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 265,
+    "kode_kabupaten_kota": 3208,
+    "nama_kabupaten_kota": "KABUPATEN KUNINGAN",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 3095,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 266,
+    "kode_kabupaten_kota": 3208,
+    "nama_kabupaten_kota": "KABUPATEN KUNINGAN",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 4798,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 267,
+    "kode_kabupaten_kota": 3208,
+    "nama_kabupaten_kota": "KABUPATEN KUNINGAN",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 5015,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 268,
+    "kode_kabupaten_kota": 3209,
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 9577,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 269,
+    "kode_kabupaten_kota": 3209,
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 10635,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 270,
+    "kode_kabupaten_kota": 3209,
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 14631,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 271,
+    "kode_kabupaten_kota": 3210,
+    "nama_kabupaten_kota": "KABUPATEN MAJALENGKA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2628,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 272,
+    "kode_kabupaten_kota": 3210,
+    "nama_kabupaten_kota": "KABUPATEN MAJALENGKA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 3063,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 273,
+    "kode_kabupaten_kota": 3210,
+    "nama_kabupaten_kota": "KABUPATEN MAJALENGKA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 3954,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 274,
+    "kode_kabupaten_kota": 3211,
+    "nama_kabupaten_kota": "KABUPATEN SUMEDANG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2765,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 275,
+    "kode_kabupaten_kota": 3211,
+    "nama_kabupaten_kota": "KABUPATEN SUMEDANG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 6316,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 276,
+    "kode_kabupaten_kota": 3211,
+    "nama_kabupaten_kota": "KABUPATEN SUMEDANG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 6441,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 277,
+    "kode_kabupaten_kota": 3212,
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 6195,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 278,
+    "kode_kabupaten_kota": 3212,
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 3797,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 279,
+    "kode_kabupaten_kota": 3212,
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 6388,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 280,
+    "kode_kabupaten_kota": 3213,
+    "nama_kabupaten_kota": "KABUPATEN SUBANG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2469,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 281,
+    "kode_kabupaten_kota": 3213,
+    "nama_kabupaten_kota": "KABUPATEN SUBANG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 1188,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 282,
+    "kode_kabupaten_kota": 3213,
+    "nama_kabupaten_kota": "KABUPATEN SUBANG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2653,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 283,
+    "kode_kabupaten_kota": 3214,
+    "nama_kabupaten_kota": "KABUPATEN PURWAKARTA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 1243,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 284,
+    "kode_kabupaten_kota": 3214,
+    "nama_kabupaten_kota": "KABUPATEN PURWAKARTA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 1438,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 285,
+    "kode_kabupaten_kota": 3214,
+    "nama_kabupaten_kota": "KABUPATEN PURWAKARTA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2062,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 286,
+    "kode_kabupaten_kota": 3215,
+    "nama_kabupaten_kota": "KABUPATEN KARAWANG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2873,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 287,
+    "kode_kabupaten_kota": 3215,
+    "nama_kabupaten_kota": "KABUPATEN KARAWANG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 2768,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 288,
+    "kode_kabupaten_kota": 3215,
+    "nama_kabupaten_kota": "KABUPATEN KARAWANG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 4098,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 289,
+    "kode_kabupaten_kota": 3216,
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 3706,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 290,
+    "kode_kabupaten_kota": 3216,
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 3899,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 291,
+    "kode_kabupaten_kota": 3216,
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 4957,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 292,
+    "kode_kabupaten_kota": 3217,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG BARAT",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 5266,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 293,
+    "kode_kabupaten_kota": 3217,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG BARAT",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 9304,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 294,
+    "kode_kabupaten_kota": 3217,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG BARAT",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 7672,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 295,
+    "kode_kabupaten_kota": 3218,
+    "nama_kabupaten_kota": "KABUPATEN PANGANDARAN",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 527,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 296,
+    "kode_kabupaten_kota": 3218,
+    "nama_kabupaten_kota": "KABUPATEN PANGANDARAN",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 519,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 297,
+    "kode_kabupaten_kota": 3218,
+    "nama_kabupaten_kota": "KABUPATEN PANGANDARAN",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 889,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 298,
+    "kode_kabupaten_kota": 3271,
+    "nama_kabupaten_kota": "KOTA BOGOR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 1769,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 299,
+    "kode_kabupaten_kota": 3271,
+    "nama_kabupaten_kota": "KOTA BOGOR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 1743,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 300,
+    "kode_kabupaten_kota": 3271,
+    "nama_kabupaten_kota": "KOTA BOGOR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 3039,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 301,
+    "kode_kabupaten_kota": 3272,
+    "nama_kabupaten_kota": "KOTA SUKABUMI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 990,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 302,
+    "kode_kabupaten_kota": 3272,
+    "nama_kabupaten_kota": "KOTA SUKABUMI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 806,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 303,
+    "kode_kabupaten_kota": 3272,
+    "nama_kabupaten_kota": "KOTA SUKABUMI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 1542,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 304,
+    "kode_kabupaten_kota": 3273,
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 4622,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 305,
+    "kode_kabupaten_kota": 3273,
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 6614,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 306,
+    "kode_kabupaten_kota": 3273,
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 8389,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 307,
+    "kode_kabupaten_kota": 3274,
+    "nama_kabupaten_kota": "KOTA CIREBON",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 1156,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 308,
+    "kode_kabupaten_kota": 3274,
+    "nama_kabupaten_kota": "KOTA CIREBON",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 2381,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 309,
+    "kode_kabupaten_kota": 3274,
+    "nama_kabupaten_kota": "KOTA CIREBON",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2809,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 310,
+    "kode_kabupaten_kota": 3275,
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 5145,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 311,
+    "kode_kabupaten_kota": 3275,
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 4575,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 312,
+    "kode_kabupaten_kota": 3275,
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 6374,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 313,
+    "kode_kabupaten_kota": 3276,
+    "nama_kabupaten_kota": "KOTA DEPOK",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 3203,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 314,
+    "kode_kabupaten_kota": 3276,
+    "nama_kabupaten_kota": "KOTA DEPOK",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 3637,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 315,
+    "kode_kabupaten_kota": 3276,
+    "nama_kabupaten_kota": "KOTA DEPOK",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 5731,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 316,
+    "kode_kabupaten_kota": 3277,
+    "nama_kabupaten_kota": "KOTA CIMAHI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 985,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 317,
+    "kode_kabupaten_kota": 3277,
+    "nama_kabupaten_kota": "KOTA CIMAHI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 3036,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 318,
+    "kode_kabupaten_kota": 3277,
+    "nama_kabupaten_kota": "KOTA CIMAHI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2365,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 319,
+    "kode_kabupaten_kota": 3278,
+    "nama_kabupaten_kota": "KOTA TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2457,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 320,
+    "kode_kabupaten_kota": 3278,
+    "nama_kabupaten_kota": "KOTA TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 5633,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 321,
+    "kode_kabupaten_kota": 3278,
+    "nama_kabupaten_kota": "KOTA TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 4677,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 322,
+    "kode_kabupaten_kota": 3279,
+    "nama_kabupaten_kota": "KOTA BANJAR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 810,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 323,
+    "kode_kabupaten_kota": 3279,
+    "nama_kabupaten_kota": "KOTA BANJAR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 846,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 324,
+    "kode_kabupaten_kota": 3279,
+    "nama_kabupaten_kota": "KOTA BANJAR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 1273,
+    "tahun": "2022",
+    "": ""
+  },
+  {
+    "id": 325,
+    "kode_kabupaten_kota": 3201,
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 9332,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 326,
+    "kode_kabupaten_kota": 3201,
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 6231,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 327,
+    "kode_kabupaten_kota": 3201,
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 12066,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 328,
+    "kode_kabupaten_kota": 3202,
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 6871,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 329,
+    "kode_kabupaten_kota": 3202,
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 14671,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 330,
+    "kode_kabupaten_kota": 3202,
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 11690,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 331,
+    "kode_kabupaten_kota": 3203,
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 3300,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 332,
+    "kode_kabupaten_kota": 3203,
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 4893,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 333,
+    "kode_kabupaten_kota": 3203,
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 6268,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 334,
+    "kode_kabupaten_kota": 3204,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 8893,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 335,
+    "kode_kabupaten_kota": 3204,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 13321,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 336,
+    "kode_kabupaten_kota": 3204,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 15149,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 337,
+    "kode_kabupaten_kota": 3205,
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 7147,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 338,
+    "kode_kabupaten_kota": 3205,
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 17805,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 339,
+    "kode_kabupaten_kota": 3205,
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 13872,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 340,
+    "kode_kabupaten_kota": 3206,
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 3527,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 341,
+    "kode_kabupaten_kota": 3206,
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 8584,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 342,
+    "kode_kabupaten_kota": 3206,
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 7333,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 343,
+    "kode_kabupaten_kota": 3207,
+    "nama_kabupaten_kota": "KABUPATEN CIAMIS",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2498,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 344,
+    "kode_kabupaten_kota": 3207,
+    "nama_kabupaten_kota": "KABUPATEN CIAMIS",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": "2020",
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 345,
+    "kode_kabupaten_kota": 3207,
+    "nama_kabupaten_kota": "KABUPATEN CIAMIS",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 3747,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 346,
+    "kode_kabupaten_kota": 3208,
+    "nama_kabupaten_kota": "KABUPATEN KUNINGAN",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2299,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 347,
+    "kode_kabupaten_kota": 3208,
+    "nama_kabupaten_kota": "KABUPATEN KUNINGAN",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 5237,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 348,
+    "kode_kabupaten_kota": 3208,
+    "nama_kabupaten_kota": "KABUPATEN KUNINGAN",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 4482,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 349,
+    "kode_kabupaten_kota": 3209,
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 8358,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 350,
+    "kode_kabupaten_kota": 3209,
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 13353,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 351,
+    "kode_kabupaten_kota": 3209,
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 15799,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 352,
+    "kode_kabupaten_kota": 3210,
+    "nama_kabupaten_kota": "KABUPATEN MAJALENGKA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 1930,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 353,
+    "kode_kabupaten_kota": 3210,
+    "nama_kabupaten_kota": "KABUPATEN MAJALENGKA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 1924,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 354,
+    "kode_kabupaten_kota": 3210,
+    "nama_kabupaten_kota": "KABUPATEN MAJALENGKA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 3702,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 355,
+    "kode_kabupaten_kota": 3211,
+    "nama_kabupaten_kota": "KABUPATEN SUMEDANG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2665,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 356,
+    "kode_kabupaten_kota": 3211,
+    "nama_kabupaten_kota": "KABUPATEN SUMEDANG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 5791,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 357,
+    "kode_kabupaten_kota": 3211,
+    "nama_kabupaten_kota": "KABUPATEN SUMEDANG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 6748,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 358,
+    "kode_kabupaten_kota": 3212,
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 5564,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 359,
+    "kode_kabupaten_kota": 3212,
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 3440,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 360,
+    "kode_kabupaten_kota": 3212,
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 6597,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 361,
+    "kode_kabupaten_kota": 3213,
+    "nama_kabupaten_kota": "KABUPATEN SUBANG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 1894,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 362,
+    "kode_kabupaten_kota": 3213,
+    "nama_kabupaten_kota": "KABUPATEN SUBANG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 1667,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 363,
+    "kode_kabupaten_kota": 3213,
+    "nama_kabupaten_kota": "KABUPATEN SUBANG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2343,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 364,
+    "kode_kabupaten_kota": 3214,
+    "nama_kabupaten_kota": "KABUPATEN PURWAKARTA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 854,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 365,
+    "kode_kabupaten_kota": 3214,
+    "nama_kabupaten_kota": "KABUPATEN PURWAKARTA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 984,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 366,
+    "kode_kabupaten_kota": 3214,
+    "nama_kabupaten_kota": "KABUPATEN PURWAKARTA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2066,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 367,
+    "kode_kabupaten_kota": 3215,
+    "nama_kabupaten_kota": "KABUPATEN KARAWANG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2373,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 368,
+    "kode_kabupaten_kota": 3215,
+    "nama_kabupaten_kota": "KABUPATEN KARAWANG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 2696,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 369,
+    "kode_kabupaten_kota": 3215,
+    "nama_kabupaten_kota": "KABUPATEN KARAWANG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 4450,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 370,
+    "kode_kabupaten_kota": 3216,
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 3148,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 371,
+    "kode_kabupaten_kota": 3216,
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 2997,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 372,
+    "kode_kabupaten_kota": 3216,
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 4387,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 373,
+    "kode_kabupaten_kota": 3217,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG BARAT",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 3246,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 374,
+    "kode_kabupaten_kota": 3217,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG BARAT",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 4323,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 375,
+    "kode_kabupaten_kota": 3217,
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG BARAT",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 5761,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 376,
+    "kode_kabupaten_kota": 3218,
+    "nama_kabupaten_kota": "KABUPATEN PANGANDARAN",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 340,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 377,
+    "kode_kabupaten_kota": 3218,
+    "nama_kabupaten_kota": "KABUPATEN PANGANDARAN",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 425,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 378,
+    "kode_kabupaten_kota": 3218,
+    "nama_kabupaten_kota": "KABUPATEN PANGANDARAN",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 638,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 379,
+    "kode_kabupaten_kota": 3271,
+    "nama_kabupaten_kota": "KOTA BOGOR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 1581,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 380,
+    "kode_kabupaten_kota": 3271,
+    "nama_kabupaten_kota": "KOTA BOGOR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 1369,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 381,
+    "kode_kabupaten_kota": 3271,
+    "nama_kabupaten_kota": "KOTA BOGOR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2622,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 382,
+    "kode_kabupaten_kota": 3272,
+    "nama_kabupaten_kota": "KOTA SUKABUMI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 961,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 383,
+    "kode_kabupaten_kota": 3272,
+    "nama_kabupaten_kota": "KOTA SUKABUMI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 614,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 384,
+    "kode_kabupaten_kota": 3272,
+    "nama_kabupaten_kota": "KOTA SUKABUMI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 1431,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 385,
+    "kode_kabupaten_kota": 3273,
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 3390,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 386,
+    "kode_kabupaten_kota": 3273,
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 4706,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 387,
+    "kode_kabupaten_kota": 3273,
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 6794,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 388,
+    "kode_kabupaten_kota": 3274,
+    "nama_kabupaten_kota": "KOTA CIREBON",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 1074,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 389,
+    "kode_kabupaten_kota": 3274,
+    "nama_kabupaten_kota": "KOTA CIREBON",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 2043,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 390,
+    "kode_kabupaten_kota": 3274,
+    "nama_kabupaten_kota": "KOTA CIREBON",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 1990,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 391,
+    "kode_kabupaten_kota": 3275,
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 4859,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 392,
+    "kode_kabupaten_kota": 3275,
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 2987,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 393,
+    "kode_kabupaten_kota": 3275,
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 5490,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 394,
+    "kode_kabupaten_kota": 3276,
+    "nama_kabupaten_kota": "KOTA DEPOK",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 2543,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 395,
+    "kode_kabupaten_kota": 3276,
+    "nama_kabupaten_kota": "KOTA DEPOK",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 3283,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 396,
+    "kode_kabupaten_kota": 3276,
+    "nama_kabupaten_kota": "KOTA DEPOK",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 5494,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 397,
+    "kode_kabupaten_kota": 3277,
+    "nama_kabupaten_kota": "KOTA CIMAHI",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 869,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 398,
+    "kode_kabupaten_kota": 3277,
+    "nama_kabupaten_kota": "KOTA CIMAHI",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 2890,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 399,
+    "kode_kabupaten_kota": 3277,
+    "nama_kabupaten_kota": "KOTA CIMAHI",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 2278,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 400,
+    "kode_kabupaten_kota": 3278,
+    "nama_kabupaten_kota": "KOTA TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 1786,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 401,
+    "kode_kabupaten_kota": 3278,
+    "nama_kabupaten_kota": "KOTA TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 3595,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 402,
+    "kode_kabupaten_kota": 3278,
+    "nama_kabupaten_kota": "KOTA TASIKMALAYA",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 3903,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 403,
+    "kode_kabupaten_kota": 3279,
+    "nama_kabupaten_kota": "KOTA BANJAR",
+    "kategori_gizi_buruk": "BALITA GIZI KURANG",
+    "jumlah_balita": 683,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 404,
+    "kode_kabupaten_kota": 3279,
+    "nama_kabupaten_kota": "KOTA BANJAR",
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "jumlah_pendek": 776,
+    "tahun": "2023",
+    "": ""
+  },
+  {
+    "id": 405,
+    "kode_kabupaten_kota": 3279,
+    "nama_kabupaten_kota": "KOTA BANJAR",
+    "kategori_gizi_buruk": "BALITA KURUS",
+    "jumlah_kurus": 707,
+    "tahun": "2023",
+    "": ""
+  }
+]

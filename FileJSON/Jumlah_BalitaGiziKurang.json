@@ -1,0 +1,47 @@
+[
+  {
+    "tahun": 2019,
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "kategori_gizi_buruk1": "BALITA GIZI KURANG",
+    "kategori_gizi_buruk2": "BALITA KURUS",
+    "jumlah_balita": 262988,
+    "jumlah_balita1": 166195,
+    "jumlah_balita2": 94165
+  },
+  {
+    "tahun": 2020,
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "kategori_gizi_buruk1": "BALITA GIZI KURANG",
+    "kategori_gizi_buruk2": "BALITA KURUS",
+    "jumlah_balita": 252458,
+    "jumlah_balita1": 170807,
+    "jumlah_balita2": 112982
+  },
+  {
+    "tahun": 2021,
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "kategori_gizi_buruk1": "BALITA GIZI KURANG",
+    "kategori_gizi_buruk2": "BALITA KURUS",
+    "jumlah_balita": 182595,
+    "jumlah_balita1": 113251,
+    "jumlah_balita2": 159941
+  },
+  {
+    "tahun": 2022,
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "kategori_gizi_buruk1": "BALITA GIZI KURANG",
+    "kategori_gizi_buruk2": "BALITA KURUS",
+    "jumlah_balita": 180042,
+    "jumlah_balita1": 113777,
+    "jumlah_balita2": 177689
+  },
+  {
+    "tahun": 2023,
+    "kategori_gizi_buruk": "BALITA PENDEK",
+    "kategori_gizi_buruk1": "BALITA GIZI KURANG",
+    "kategori_gizi_buruk2": "BALITA KURUS",
+    "jumlah_balita": 132625,
+    "jumlah_balita1": 91985,
+    "jumlah_balita2": 157807
+  }
+]

@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <!--Font Google-->
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Cormorant:ital@1&family=Courgette&family=Poppins:wght@300;400;500;600;700&family=Ubuntu&family=Ysabeau+Infant:ital,wght@1,1&display=swap");
+    </style>
+
+    <!--CSS-->
+    <link rel="stylesheet" href="style.css" />
+    <!--Box Icons-->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/boxicons@latest/css/boxicons.min.css"
+    />
+    <!--Icons-CSS-->
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
+    </head>
+  <body>
+    <nav class="sidebar">
+      <header>
+        <div class="image-text">
+          <a class="image">
+            <img src="img/logo.png" alt="logo" /></a>
+          </span>
+        </div>
+      </header>
+      <div class="menubar">
+        <div class="menu-links">
+          <ul class="menu-links">
+            <li class="nav-list">
+              <a href="index.html">
+                <i class="bx bx-home-alt icon"></i></a>
+            </li>
+            <li class="nav-list">
+              <a href="dashboard.html">
+                <i class="bx bxs-dashboard icon"></i></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="header">
+        <h1>Dahboard Gizi Buruk di Jawa Barat</h1>
+      </div>
+    <!--section untuk menampung bagian form-->
+    <!--Filter-->
+    <main class="main">
+    <div class="main-content">
+        <div class="chart-mini-filter">
+            <!--FORM-->
+            <form id = "filter-form" action="#", method="post">
+                <div class="filter">
+                  <!--Section untuk select "kab/kota"-->
+                  <div class="filter-kota">
+                    <label id="label-KOTA" for="KOTA">Kab/Kota</label>
+                    <select id="KOTA" name="KOTA">
+                      <option value="">Semua</option>
+                      <option value="KABUPATEN BANDUNG">Kabupaten Bandung</option>
+                      <option value="KABUPATEN BANDUNG BARAT">Kabupaten Bandung Barat</option>
+                      <option value="KABUPATEN BEKASI">Kabupaten Bekasi</option>
+                      <option value="KABUPATEN BOGOR">Kabupaten Bogor</option>
+                      <option value="KABUPATEN CIAMIS">Kabupaten Ciamis</option>
+                      <option value="KABUPATEN CIANJUR">Kabupaten Cianjur</option>
+                      <option value="KABUPATEN CIREBON">Kabupaten Cirebon</option>
+                      <option value="KABUPATEN GARUT">Kabupaten Garut</option>
+                      <option value="KABUPATEN INDRAMAYU">Kabupaten Indramayu</option>
+                      <option value="KABUPATEN KARAWANG">Kabupaten Karawang</option>
+                      <option value="KABUPATEN KUNINGAN">Kabupaten Kuningan</option>
+                      <option value="KABUPATEN MAJALENGKA">Kabupaten Majalengka</option>
+                      <option value="KABUPATEN PANGANDARAN">Kabupaten Pangandaran</option>
+                      <option value="KABUPATEN PURWAKARTA">Kabupaten Purwakarta</option>
+                      <option value="KABUPATEN SUBANG">Kabupaten Subang</option>
+                      <option value="KABUPATEN SUKABUMI">Kabupaten Sukabumi</option>
+                      <option value="KABUPATEN SUMEDANG">Kabupaten Sumedang</option>
+                      <option value="KABUPATEN TASIKMALAYA">Kabupaten Tasikmalaya</option>
+                      <option value="KOTA BANDUNG">Kota Bandung</option>
+                      <option value="KOTA BANJAR">Kota Banjar</option>
+                      <option value="KOTA BEKASI">Kota Bekasi</option>
+                      <option value="KOTA BOGOR">Kota Bogor</option>
+                      <option value="KOTA CIMAHI">Kota Cimahi</option>
+                      <option value="KOTA CIREBON">Kota Cirebon</option>
+                      <option value="KOTA DEPOK">Kota Depok</option>
+                      <option value="KOTA SUKABUMI">Kota Sukabumi</option>
+                      <option value="KOTA TASIKMALAYA">Kota Tasikmalaya</option>
+                    </select>
+                  </div>
+                  <div class="filter">
+                    <!--Section untuk select "tahun"-->
+                    <div class="filter-tahun">
+                      <label id="label-tahun" for="tahun">Tahun</label>
+                      <select id="tahun" name="tahun">
+                        <option value="">Tahun</option>
+                        <option value="2019">2019</option>
+                        <option value="2020">2020</option>
+                        <option value="2021">2021</option>
+                        <option value="2022">2022</option>
+                        <option value="2023">2023</option>
+                      </select>
+                    </div>
+                       <!--Tombol untuk submit filter-->
+                <div class="buttons">
+                  <label id="label-btn" for="stickyButton"></label>
+                  <button id="stickyButton" class="sticky-button" type="submit">
+                    Submit
+                  </button>
+                </div>
+                  </div>
+                  <!--section untuk chart ringkasan yang berupa angka-->
+                <div class = "user-interaction">
+                <div class="chart-mini">
+                    <div class="chart-mini-1">
+                      <h3>Total Balita</h3>
+                      <p id="total-balita"></p>
+                    </div>
+                    <div class="chart-mini-2">
+                      <h3>Balita Gizi Kurang</h3>
+                      <p id="total-gizi-kurang"></p>
+                    </div>
+                    <div class="chart-mini-3">
+                      <h3>
+                        Balita Kurus
+                      </h3>
+                      <p id="total-kurus"></p>
+                    </div>
+                    <div class="chart-mini-4">
+                      <h3>Balita Pendek</h3>
+                      <p id="total-pendek"></p>
+                    </div>
+                  </div>
+                  </div>
+                </div>
+            </div>
+            <!--Container-->
+      <div class="chartArea">
+        <!--section untuk chart berupa grafik-->
+        <div class="chart">
+          <div class="GiziBurukBox">
+            <div class="GiziBurukContainer">
+            <canvas id="GiziBurukChart"> </canvas>
+            </div>
+              </div>
+            <div class="GiziKurangBox">
+              <label class="year-Select" for="year-Select">Tahun: </label>
+                  <select id="year-Select" onchange="updateChartGiziKurang()">
+                    <option value="">All</option>
+                    <option value="2019">2019</option>
+                    <option value="2020">2020</option>
+                    <option value="2021">2021</option>
+                    <option value="2022">2022</option>
+                    <option value="2023">2023</option>
+                </select>
+              <div class="GiziKurangContainer">
+              <canvas id="GiziKurangChart"> </canvas>
+              </div>
+                </div>
+              <div class="KurusBox">
+                <label class="yearSelect" for="yearSelect">Tahun: </label>
+                  <select id="yearSelect" onchange="updateChartKurus()">
+                    <option value="">All</option>
+                    <option value="2019">2019</option>
+                    <option value="2020">2020</option>
+                    <option value="2021">2021</option>
+                    <option value="2022">2022</option>
+                    <option value="2023">2023</option>
+                </select>
+                <div class="KurusContainer">
+                <canvas id="KurusChart"> </canvas>
+                
+                </div>
+                  </div>
+                <div class="PendekBox">
+                  <label class = "yearselect" for="yearselect">Tahun: </label>
+                  <select id="yearselect" onchange="updateChartPendek()">
+                    <option value="">All</option>
+                    <option value="2019">2019</option>
+                    <option value="2020">2020</option>
+                    <option value="2021">2021</option>
+                    <option value="2022">2022</option>
+                    <option value="2023">2023</option>
+                </select>
+                  <div class="PendekContainer">
+                  <canvas id="PendekChart"> </canvas>
+                  </div>
+                    </div>
+                    <div class="maps">
+                      <iframe src="https://lookerstudio.google.com/embed/reporting/f863fe28-3fc7-43d9-9ee8-051d0f33cdb5/page/myO3D"></iframe>
+                    </div>
+        </main>
+        <script src = "script.js"></script>
+  </body>
+</html>

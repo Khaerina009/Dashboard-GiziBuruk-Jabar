@@ -1,0 +1,362 @@
+[
+  {
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "jumlah_balita": 85465,
+    "persentase": "20%",
+    "tahun": ""
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "jumlah_balita": 55291,
+    "persentase": "12.9%",
+    "tahun": ""
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "jumlah_balita": 54947,
+    "persentase": "12.9%",
+    "tahun": ""
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "jumlah_balita": 37818,
+    "persentase": "8.8%",
+    "tahun": ""
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "jumlah_balita": 36590,
+    "persentase": "8.6%",
+    "tahun": ""
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "jumlah_balita": 36266,
+    "persentase": "8.5%",
+    "tahun": ""
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "jumlah_balita": 31377,
+    "persentase": "7.3%",
+    "tahun": ""
+  },
+  {
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "jumlah_balita": 31372,
+    "persentase": "7.3%",
+    "tahun": ""
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "jumlah_balita": 29214,
+    "persentase": "6.8%",
+    "tahun": ""
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "jumlah_balita": 29073,
+    "persentase": "6.8%",
+    "tahun": ""
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "jumlah_balita": 20999,
+    "tahun": "2019",
+    "persentase": "19.1%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "jumlah_balita": 13743,
+    "tahun": "2019",
+    "persentase": "12.5%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "jumlah_balita": 13640,
+    "tahun": "2019",
+    "persentase": "12.4%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "jumlah_balita": 12706,
+    "tahun": "2019",
+    "persentase": "11.5%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "jumlah_balita": 8865,
+    "tahun": "2019",
+    "persentase": "8%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "jumlah_balita": 8553,
+    "tahun": "2019",
+    "persentase": "7.8%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "jumlah_balita": 8016,
+    "tahun": "2019",
+    "persentase": "7.3%"
+  },
+  {
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "jumlah_balita": 7959,
+    "tahun": "2019",
+    "persentase": "7.2%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "jumlah_balita": 7948,
+    "tahun": "2019",
+    "persentase": "7.2%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "jumlah_balita": 7718,
+    "tahun": "2019",
+    "persentase": "7%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "jumlah_balita": 21322,
+    "tahun": "2020",
+    "persentase": "19.4%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "jumlah_balita": 15737,
+    "tahun": "2020",
+    "persentase": "14.3%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "jumlah_balita": 13728,
+    "tahun": "2020",
+    "persentase": "12.5%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "jumlah_balita": 9275,
+    "tahun": "2020",
+    "persentase": "8.4%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "jumlah_balita": 9128,
+    "tahun": "2020",
+    "persentase": "8.3%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "jumlah_balita": 9069,
+    "tahun": "2020",
+    "persentase": "8.2%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "jumlah_balita": 8838,
+    "tahun": "2020",
+    "persentase": "8%"
+  },
+  {
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "jumlah_balita": 8228,
+    "tahun": "2020",
+    "persentase": "7.5%"
+  },
+  {
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "jumlah_balita": 7910,
+    "tahun": "2020",
+    "persentase": "7.2%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "jumlah_balita": 6723,
+    "tahun": "2020",
+    "persentase": "6.1%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "jumlah_balita": 16821,
+    "tahun": "2021",
+    "persentase": "21.8%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "jumlah_balita": 9596,
+    "tahun": "2021",
+    "persentase": "12.4%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "jumlah_balita": 7876,
+    "tahun": "2021",
+    "persentase": "10.2%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN BEKASI",
+    "jumlah_balita": 7548,
+    "tahun": "2021",
+    "persentase": "9.8%"
+  },
+  {
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "jumlah_balita": 7343,
+    "tahun": "2021",
+    "persentase": "9.5%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "jumlah_balita": 6543,
+    "tahun": "2021",
+    "persentase": "8.5%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "jumlah_balita": 5973,
+    "tahun": "2021",
+    "persentase": "7.7%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG BARAT",
+    "jumlah_balita": 5164,
+    "tahun": "2021",
+    "persentase": "6.7%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "jumlah_balita": 5150,
+    "tahun": "2021",
+    "persentase": "6.7%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "jumlah_balita": 5146,
+    "tahun": "2021",
+    "persentase": "6.7%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "jumlah_balita": 16991,
+    "tahun": "2022",
+    "persentase": "21.9%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "jumlah_balita": 10024,
+    "tahun": "2022",
+    "persentase": "12.9%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "jumlah_balita": 9577,
+    "tahun": "2022",
+    "persentase": "12.3%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "jumlah_balita": 8675,
+    "tahun": "2022",
+    "persentase": "11.2%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "jumlah_balita": 6195,
+    "tahun": "2022",
+    "persentase": "8%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "jumlah_balita": 5998,
+    "tahun": "2022",
+    "persentase": "7.7%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG BARAT",
+    "jumlah_balita": 5266,
+    "tahun": "2022",
+    "persentase": "6.8%"
+  },
+  {
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "jumlah_balita": 5145,
+    "tahun": "2022",
+    "persentase": "6.6%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "jumlah_balita": 5104,
+    "tahun": "2022",
+    "persentase": "6.6%"
+  },
+  {
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "jumlah_balita": 4622,
+    "tahun": "2022",
+    "persentase": "6%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN BOGOR",
+    "jumlah_balita": 9332,
+    "tahun": "2023",
+    "persentase": "15.2%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN BANDUNG",
+    "jumlah_balita": 8893,
+    "tahun": "2023",
+    "persentase": "14.5%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN CIREBON",
+    "jumlah_balita": 8358,
+    "tahun": "2023",
+    "persentase": "13.6%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN GARUT",
+    "jumlah_balita": 7147,
+    "tahun": "2023",
+    "persentase": "11.7%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN SUKABUMI",
+    "jumlah_balita": 6871,
+    "tahun": "2023",
+    "persentase": "11.2%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN INDRAMAYU",
+    "jumlah_balita": 5564,
+    "tahun": "2023",
+    "persentase": "9.1%"
+  },
+  {
+    "nama_kabupaten_kota": "KOTA BEKASI",
+    "jumlah_balita": 4859,
+    "tahun": "2023",
+    "persentase": "7.9%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN TASIKMALAYA",
+    "jumlah_balita": 3527,
+    "tahun": "2023",
+    "persentase": "5.8%"
+  },
+  {
+    "nama_kabupaten_kota": "KOTA BANDUNG",
+    "jumlah_balita": 3390,
+    "tahun": "2023",
+    "persentase": "5.8%"
+  },
+  {
+    "nama_kabupaten_kota": "KABUPATEN CIANJUR",
+    "jumlah_balita": 3300,
+    "tahun": "2023",
+    "persentase": "5.5%"
+  }
+]
